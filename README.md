@@ -1,2 +1,1 @@
-# codeforcesdemo
-Solving codeforces and a2oj ladder questions
+# Codeforces and a2oj problems solutions 
